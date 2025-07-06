@@ -1,77 +1,81 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# 👋 Hi there! I'm **Sujata**
 
-## 🚀 About Me
+[![Software Engineer](https://img.shields.io/badge/Role-Software%20Engineer-blue)](https://github.com/mayuringit)
+[![Front-End Developer](https://img.shields.io/badge/Focus-Front--End%20Developer-brightgreen)](https://github.com/mayuringit)
+[![Learning Full-Stack](https://img.shields.io/badge/Track-Full--Stack%20In%20Progress-yellow)](https://github.com/mayuringit)
 
-🎓 I am Sujata Gaikwad, a **Front End Web Developer** (specializing in **React Applications**) graduated in 2022.
+---
 
-👨‍💻 I am really enthusiastic about learning new technology. In 2022, I learned **HTML**, **CSS**, **JavaScript**, **React.js**, **Material-UI**, **BootStrap**, **MySQL**.
-i have recently completed a **Full Stack Development** course in associate with **Generation India**, primarily focusing on **Core Java**, **Spring**, **SpringBoot**, **REST API** along with **Frontend development**.
+## 🧑‍💻 About Me
 
-👨‍💻 ***Internship***
+I'm a **Software Engineer** specializing in front-end development with **ReactJS**, **JavaScript**, and clean, responsive UI design. I enjoy crafting intuitive user experiences and am now actively learning **Node.js**, **Express.js**, and **MySQL** to grow into a full-stack developer.
 
-Completed 4 months of Internship in **Mobiloitte Technology Pvt Ltd Baner,Pune** as a Frontend React Developer.
+My work is defined by reusable code, scalable architecture, and cross-functional team collaboration.
 
-**Key Qualifications & Responsibilities.**
+---
 
-- Worked on a live project INBT (ICO Dashboard, NFT Marketplace).
+## 🛠️ My Tech Stack
 
-- Worked with senior-level developers in design, development, and deployment of projects for the website, both large and small, throughout the various phases of the project life cycle.
+### 💻 Languages & Frameworks  
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Redux](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 
-- Performed other web development related tasks as assigned.
+### 🛢️ Tools & Platforms  
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![Bitbucket](https://skillicons.dev/icons?i=bitbucket)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Reading Books** , **sketching** and **Nature Wandering**
+---
 
-📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are which are influencing me now are **The Secret** by _Rhonda_Byrne_ it covers the law of attraction and states that the power of positive thinking can help you do anything you want for personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
+## 💼 Work Experience
 
-## 🏅 Achievements
+### 🔹 Software Engineer  
+**Quolam Business Solutions, Pune**  
+_April 2024 – Present_
 
--   📝 **Full Stack Developer** Associate with _Generation India_ (Feb 2023 - June 2023)
--   🏆 **IOT Hardware & Software Design** Associate with _Symbiosys skills and professional University_ (Sep 2021 - Nov 2021)
--   🏆 Completed a large number of certifications Associate with _Codecademy_ (Feb 2023 - June 2023)![java](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
+- Developed & maintained survey and form automation modules using **React.js** and legacy **Knockout.js**, improving scalability and UI structure.
+- Implemented dynamic forms, checklist UIs, and validation workflows using React Hooks and conditional rendering.
+- Designed structured PDF reports by mapping form data to HTML/CSS templates.
+- Built responsive layouts using Flexbox, Grid, and media queries for mobile compatibility.
+- Led UI development for **Emergency Response System (ERS)** module for IRCLASS.
+- Owned key modules like **Periodical Survey (95%)** and **SSA (live)**, with a focus on reusable components and performance.
+- Contributed to continuous UI optimization across multiple modules.
 
-## 🛠️ Skills
+---
 
-## Programming Languages
+## 🎓 Education
 
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white)
+**Bachelor of Engineering**  
+_Savitribai Phule Pune University (SPPU)_  
+📅 _Graduated: May 2022_  
+🎖️ _First Class with Distinction_
 
-## **Front-End Development**
+---
 
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+## 📜 Certifications
 
-## **Back-End Development**
-![Node.JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+- **Full-Stack Web Development Course**  
+  _Generation India – Completed in Jun 2023_  
+   _Capgemini – Completed in Jan 2024_
 
-## **Database**
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+## 📫 Connect with Me
 
-## **Version Control System**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sujata-gaikwad-b56054199/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sujatagaikwad0206@gmail.com)
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## 🖥️ **Workspace Setup**
+---
 
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+## 📊 GitHub Stats
 
-## 🔗**Links**
-
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://sujata02061999.github.io/Portfolio/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1d2C8tGyTZpPiB__DlP03wM7ZeQ1TIC6i/view?usp=drivesdk)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sujata-gaikwad-b56054199/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Sujata02061999)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sujatagaikwad0206@gmail.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujata02061999&layout=compact&theme=react)
