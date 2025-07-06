@@ -13,6 +13,17 @@ I'm a **Software Engineer** specializing in front-end development with **ReactJS
 My work is defined by reusable code, scalable architecture, and cross-functional team collaboration.
 
 ---
+## 💻	 Projects
+
+## 🌐 Hotel Shree Website
+
+- Developed a responsive hotel website using **HTML**, **CSS**, and **JavaScript** with a focus on clean UI and smooth navigation.  
+- Showcased key features such as room listings, amenities, and location maps to improve user engagement.  
+- Ensured cross-device compatibility for both desktop and mobile users using responsive design techniques.  
+- Deployed the project using **GitHub Pages** for seamless and free hosting.
+
+🔗 [Live Site](https://sujata02061999.github.io/HotelShree/)
+
 
 ## 🛠️ My Tech Stack
 
